@@ -4,6 +4,7 @@ Lima, Perú   |   https://github.com/rampla   |   +51 987 654 321   |   user@exa
 <br>
 ---
 <br>
+
 #### EDUCATION
 **Computer Science** | *2024 - actuality*
 
